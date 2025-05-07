@@ -24,5 +24,15 @@
 	},
 	"observability": {
 		"enabled": true
-	}
+	},
+	"d1_databases": [
+       {
+         "binding": "DB",
+         "database_name": "goodreads-db",
+         "database_id": "389cd05d-455a-4de7-b6a5-167fa3058cc6"
+       }
+     ],
+     "ai": {
+       "binding": "AI"
+     }
 }
