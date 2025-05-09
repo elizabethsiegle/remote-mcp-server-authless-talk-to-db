@@ -1,6 +1,6 @@
 # Building a Remote MCP Server on Cloudflare (Without Auth)
 
-This example allows you to deploy a remote MCP server that doesn't require authentication on Cloudflare Workers. 
+This example allows you to deploy a remote MCP server that doesn't require authentication on Cloudflare Workers. This MCP server allows you to chat with your D1 SQL database--you can connect it to Windsurf, Cursor, the [Workers AI LLM Playground](https://playground.ai.cloudflare.com/), Claude, and more clients! Accenctuate your AI coding IDE by giving LLMs access to your database. 
 
 ## Get started: 
 
